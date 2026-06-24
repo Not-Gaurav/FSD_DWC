@@ -122,6 +122,3 @@ bash
 Java 11 or higher
 Git
 Any Java IDE (IntelliJ, Eclipse, VS Code)
-
-git clone https://github.com/your-username/dswc-assessments.git
-cd dswc-assessments
